@@ -1,0 +1,31 @@
+.left{
+	margin-left: 10px;
+    float: left;
+    width: 15%;
+    box-sizing: border-box;
+
+}
+
+.left img{
+	border: 2px solid;
+	border-radius: 20px;
+	margin-left: 10px;
+}
+
+.right{
+	border: 3px solid;
+	border-radius: 10px;
+	margin-left: 50px;
+    padding-right: 10px;
+    float: left;
+    width: 30%;
+}
+
+.login{
+    float: left;
+    width: 33%;
+}
+
+.logo{
+	float: left;
+}

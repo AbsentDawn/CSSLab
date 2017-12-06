@@ -7,8 +7,6 @@
 }
 
 .left img{
-	border: 2px solid;
-	border-radius: 20px;
 	margin-left: 10px;
 }
 
@@ -21,11 +19,58 @@
     width: 30%;
 }
 
+.right img{
+	display: block;
+	margin: auto;
+}
+
+.right h2{
+	text-align: center;
+	background-color: #2867ef;
+}
+
+.right h5{
+	text-align: center;
+	width: 100%;
+}
+
+.paragraph{
+	text-align: center;
+}
+
+input[type=text]{
+	display: block;
+	margin-left: 155px;
+}
+
+
+
 .login{
+    border: 3px solid;
+	border-radius: 10px;
+	margin-left: 280px;
     float: left;
-    width: 33%;
+    width: 30%;
+    text-align: center;
 }
 
 .logo{
 	float: left;
+	margin-left: 320px;
+}
+
+.apptext{
+	text-align: center;
+}
+
+.navigation{
+	display: inline-flex;
+}
+
+.navbutton{
+	padding: 5px;	
+}
+
+.clear{
+	clear: both;
 }

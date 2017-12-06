@@ -1,13 +1,14 @@
 .left{
 	margin-left: 10px;
     float: left;
-    width: 15%;
+    width: 20%;
     box-sizing: border-box;
 
 }
 
 .left img{
 	margin-left: 10px;
+	height: 500px;
 }
 
 .right{
@@ -16,7 +17,7 @@
 	margin-left: 50px;
     padding-right: 10px;
     float: left;
-    width: 30%;
+    width: 20%;
 }
 
 .right img{
@@ -40,17 +41,15 @@
 
 input[type=text]{
 	display: block;
-	margin-left: 155px;
+	margin-left: 70px;
 }
-
-
 
 .login{
     border: 3px solid;
 	border-radius: 10px;
-	margin-left: 280px;
+	margin-left: 350px;
     float: left;
-    width: 30%;
+    width: 20%;
     text-align: center;
 }
 
@@ -65,6 +64,7 @@ input[type=text]{
 
 .navigation{
 	display: inline-flex;
+
 }
 
 .navbutton{
